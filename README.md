@@ -1,2 +1,3 @@
 # myfirstgithubrepos
-this is my 1st repositry
+This is my 1st Repositry.
+Author : sudhir shendage
